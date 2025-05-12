@@ -59,6 +59,9 @@
         </div>
       </td>
 
+    
+    </tr>
+    <tr>
         <!-- Git -->
       <td width="100">
         <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
@@ -66,9 +69,6 @@
           <span>Git</span>
         </div>
       </td>
-    </tr>
-    <tr>
-    
       <!-- GitLab -->
       <td width="100">
         <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
