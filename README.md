@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="margin-top: 20px;">
+<div style="margin-top: 120px;">
   <table>
     <tr>
       <!-- HTML -->
