@@ -3,11 +3,11 @@
 </p>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400"height="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" height="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/nikhil" target="blank"><img src="https://img.shields.io/twitter/follow/nikhil?logo=twitter&style=for-the-badge" alt="nikhil" /></a> </p>
 
-- 💬 Ask me about **React,MERN**
+- 💬 Ask me about **React, MERN**
 
 - 📫 How to reach me **nikhilkhuntia721@gmail.com**
 
@@ -20,8 +20,9 @@
 <a href="https://linkedin.com/in/nikhil khuntia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil khuntia" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3><div style="margin-top: 120px;">
-   <table>
+<h3 align="left">Languages and Tools:</h3>
+<div style="margin-top: 120px;">
+  <table>
     <tr>
       <!-- HTML -->
       <td width="100">
@@ -58,17 +59,15 @@
           <span>GitHub</span>
         </div>
       </td>
-   <!-- Git -->
+      <!-- Git -->
       <td width="100">
         <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
           <img src="https://camo.githubusercontent.com/a2322ca134c223fe4b49d637be98c3b8d9b907e8ef9c601c4bc8ce2a5824e269/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974" width="40" alt="Git" />
           <span>Git</span>
         </div>
       </td>
-    
     </tr>
     <tr>
-     
       <!-- GitLab -->
       <td width="100">
         <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
@@ -104,8 +103,6 @@
           <span>React</span>
         </div>
       </td>
-    </tr>
-    <tr>
       <!-- MongoDB -->
       <td width="100">
         <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
@@ -116,8 +113,6 @@
     </tr>
   </table>
 </div>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilgithub911&show_icons=true&locale=en&layout=compact" alt="nikhilgithub911" /></p>
 
