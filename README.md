@@ -72,7 +72,7 @@
       <td width="100">
         <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
           <img src="https://camo.githubusercontent.com/fcf2fcd04d951aa4310987fcb0381f52a8339cddb2e5aaad293ff37265a45d32/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769746c6162" width="40" alt="GitLab" />
-          <span>Git</span>
+          <span>GitLab</span>
         </div>
       </td>
       <!-- Bootstrap -->
