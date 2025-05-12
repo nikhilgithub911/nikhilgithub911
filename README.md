@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400"height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400"height="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/nikhil" target="blank"><img src="https://img.shields.io/twitter/follow/nikhil?logo=twitter&style=for-the-badge" alt="nikhil" /></a> </p>
 
