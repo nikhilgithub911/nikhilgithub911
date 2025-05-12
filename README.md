@@ -96,13 +96,7 @@
           <span>Linux</span>
         </div>
       </td>
-       <!-- Linux -->
-      <td width="100">
-        <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
-          <img src="[https://camo.githubusercontent.com/9de3a0e52bb32397d435c3cd0396f81235fba55ec7bccf5b8202aa1b551e89bf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e7578](https://skillicons.dev/icons?i=react)" width="40" alt="Linux" />
-          <span>Linux</span>
-        </div>
-      </td>
+
     </tr>
   </table>
 </div>
