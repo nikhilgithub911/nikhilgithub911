@@ -58,15 +58,17 @@
           <span>GitHub</span>
         </div>
       </td>
-    </tr>
-    <tr>
-      <!-- Git -->
+
+        <!-- Git -->
       <td width="100">
         <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
           <img src="https://camo.githubusercontent.com/a2322ca134c223fe4b49d637be98c3b8d9b907e8ef9c601c4bc8ce2a5824e269/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974" width="40" alt="Git" />
           <span>Git</span>
         </div>
       </td>
+    </tr>
+    <tr>
+    
       <!-- GitLab -->
       <td width="100">
         <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
