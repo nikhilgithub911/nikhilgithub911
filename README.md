@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3><div style="margin-top: 120px;">
-  <table>
+   <table>
     <tr>
       <!-- HTML -->
       <td width="100">
@@ -100,6 +100,15 @@
         <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
           <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" />
           <span>React</span>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <!-- MongoDB -->
+      <td width="100">
+        <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" />
+          <span>MongoDB</span>
         </div>
       </td>
     </tr>
