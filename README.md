@@ -97,6 +97,22 @@
         </div>
       </td>
 
+            <!-- Github -->
+<td width="100">
+  <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+    <span>GitHub</span>
+  </div>
+</td>
+<td width="100">
+  <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
+    <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" />
+    <span>React</span>
+  </div>
+</td>
+
+
+
     </tr>
   </table>
 </div>
