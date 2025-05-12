@@ -20,8 +20,7 @@
 <a href="https://linkedin.com/in/nikhil khuntia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil khuntia" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="margin-top: 120px;">
+<h3 align="left">Languages and Tools:</h3><div style="margin-top: 120px;">
   <table>
     <tr>
       <!-- HTML -->
@@ -55,7 +54,7 @@
       <!-- GitHub -->
       <td width="100">
         <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
-          <img src="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="40" alt="GitHub" />
+          <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
           <span>GitHub</span>
         </div>
       </td>
@@ -96,26 +95,17 @@
           <span>Linux</span>
         </div>
       </td>
-
-            <!-- Github -->
-<td width="100">
-  <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
-    <span>GitHub</span>
-  </div>
-</td>
-<td width="100">
-  <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
-    <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" />
-    <span>React</span>
-  </div>
-</td>
-
-
-
+      <!-- React -->
+      <td width="100">
+        <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100px;">
+          <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" />
+          <span>React</span>
+        </div>
+      </td>
     </tr>
   </table>
 </div>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilgithub911&show_icons=true&locale=en&layout=compact" alt="nikhilgithub911" /></p>
